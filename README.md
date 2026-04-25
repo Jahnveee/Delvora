@@ -33,18 +33,14 @@ It enables logistics teams to test multiple operational scenarios (traffic, agen
 
 ---
 
-## 📸 Demo
+##  Demo
 
-### 🔹 Dashboard Overview
-![Dashboard](./assets/dashboard.png)
+![Delvora1](./Delvora1.png)
 
-### 🔹 Scenario Comparison
-![Scenarios](./assets/scenarios.png)
+![Delvora2](./Delvora2.png)
 
-### 🔹 Insights Panel
-![Insights](./assets/insights.png)
+![Delvora3](./Delvora3.png)
 
-> *(Add your screenshots inside an `assets/` folder)*
 
 ---
 
